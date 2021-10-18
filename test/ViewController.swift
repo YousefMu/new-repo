@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+var Y = "Yousef"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -18,5 +18,5 @@ class ViewController: UIViewController {
 
 }
 
-var a = 0
+
 
