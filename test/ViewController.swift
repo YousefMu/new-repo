@@ -5,6 +5,7 @@
 //  Created by Yousef Alasmar on 12/03/1443 AH.
 //
 
+
 import UIKit
 
 class ViewController: UIViewController {
@@ -16,4 +17,6 @@ class ViewController: UIViewController {
 
 
 }
+
+var a = 0
 
